@@ -47,6 +47,7 @@ h3 {
 }
 .copyright {
   float: right;
+  text-align: right;
 }
 .copyright a {
   color: #fff;
