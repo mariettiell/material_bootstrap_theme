@@ -10,5 +10,14 @@ IE9+, Opera, Safari, Yandex browser, Chrome, Firefox, Mobile Safari, Android
 
 ## Demo
 http://stas-melnikov.ru/material_bootstrap_theme/
+
+##Contact info
+http://stas-melnikov.ru
+e-mail: melnik909@ya.ru
+linkedIn: https://www.linkedin.com/in/melnik909
+github: https://github.com/melnik909
+facebook: https://www.facebook.com/melnik909
+
+
 ## License
 MIT
