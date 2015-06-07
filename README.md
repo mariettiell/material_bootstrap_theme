@@ -1,9 +1,8 @@
 # Material design for Bootstrap 3
 This theme is a skin for Bootstrap, which means that can be used with any site built with the Bootstrap framework 3. With easy installation and customization thanks to the LESS/SASS files included and the custom themes colors ready to use. 
 This skin is based on a material design and also extends the styles directly applied to Bootstrap files. There’s no overwritten rules or bloating CSS, making a lightweight skin as Boostrap is itself. 
-
-##Donate
-If you like the project, please support it, you will donate to it and put like
+#Word of the author
+If you like my work, put likes. Also subscribe for updatings. It is important for me!
 
 ##Browsers
 IE9+, Opera, Safari, Yandex browser, Chrome, Firefox, Mobile Safari, Android
