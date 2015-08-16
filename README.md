@@ -11,7 +11,7 @@ IE9+, Opera, Safari, Yandex browser, Chrome, Firefox, Mobile Safari, Android
 http://stas-melnikov.ru/material_bootstrap_theme/
 
 #Help
-If you liked this theme, please donate to me to steam of dollars. I very need your help. Thanks!
+If you liked this plug-in, please donate to me to steam of dollars. I very need your help. Thanks! (My emal on PayPal - melnik909@ya.ru)
 
 ##Contact info
   * [my sait](http://stas-melnikov.ru)
