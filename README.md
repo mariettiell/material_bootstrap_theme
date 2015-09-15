@@ -11,7 +11,11 @@ IE9+, Opera, Safari, Yandex browser, Chrome, Firefox, Mobile Safari, Android
 http://stas-melnikov.ru/material_bootstrap_theme/
 
 #Help
+<<<<<<< HEAD
 If you liked this theme, please donate to me on <a href="https://www.paypal.me/melnik909" target="blank">PayPal</a> or contact me. Thanks!
+=======
+If you liked this plug-in, please donate to me to steam of dollars. I very need your help. Thanks! (My emal on PayPal - melnik909@ya.ru)
+>>>>>>> origin/master
 
 ##Contact info
   * [my sait](http://stas-melnikov.ru)
