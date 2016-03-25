@@ -1064,7 +1064,7 @@ h6 {
 }
 /***********************Panels***********************/
 .material_panel {
-  border-radius: 0;
+  border: 0;
 }
 .material_panel .material_panel_heading {
   font-weight: 400;
